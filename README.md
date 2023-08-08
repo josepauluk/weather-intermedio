@@ -14,7 +14,7 @@ Antes de utilizar esta aplicación, asegúrate de tener instalados los siguiente
 1. Clona este repositorio en tu máquina local: https://github.com/josepauluk/weather-intermedio.git
 2. Accede al directorio del proyecto:
 3. Instala las dependencias del proyecto:
-4. Configura la base de datos PostgreSQL:
+4. Configura la base de datos PostgreSQL: (Debe tener un campo "ID" como primary key autoincremental)
 
    - Crea una base de datos llamada "weather_data".
    - Actualiza las variables de configuración en el archivo `config.py` con tus credenciales de PostgreSQL.
